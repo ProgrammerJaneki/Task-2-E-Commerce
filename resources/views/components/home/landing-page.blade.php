@@ -46,7 +46,4 @@
             </div>
         </div>
     </nav>
-
-    <!-- 2. DISCOVER -->
-
 </div>

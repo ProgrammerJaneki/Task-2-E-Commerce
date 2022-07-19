@@ -14,6 +14,9 @@
     </head>
     <body class="">
         <!-- 1. Landing Page -->
-        <x-home.landing-page/>
+            <!-- Navigation Bar  -->
+            <x-home.landing-page/>
+            <!-- Landing Page Section 2 -->
+            <x-home.landing-page-section2/>
     </body>
 </html>
