@@ -28,5 +28,7 @@
             <x-home.landing-page-section6/>
             <!-- Landing Page Section 7-->
             <x-home.landing-page-section7/>
+            <!-- Landing Page Footer -->
+            <x-home.landing-page-footer/>
         </body>
 </html>

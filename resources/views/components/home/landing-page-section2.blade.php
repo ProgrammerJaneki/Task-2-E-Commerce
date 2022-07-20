@@ -53,23 +53,5 @@
             </div>
         </div>
         </div>
-        <!-- <div class="bg-transparent flex justify-center w-full relative md:absolute md:left-[12rem] lg:left-[20rem] md:top-[24rem] lg:top-[34rem]  z-50 ">
-            <div class="bg-red-200 flex justify-between items-center mt-8 md:mt-12 shadow-xl py-2 pr-2 pl-3 w-[327px] md:w-[610px] lg:w-[810px]">
-                    <svg class="text-[#AFADB5] w-6 lg:w-8 h-6 lg:h-8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"  preserveAspectRatio="xMidYMid meet" viewBox="0 0 1024 1024"><path fill="currentColor" d="m795.904 750.72l124.992 124.928a32 32 0 0 1-45.248 45.248L750.656 795.904a416 416 0 1 1 45.248-45.248zM480 832a352 352 0 1 0 0-704a352 352 0 0 0 0 704z"/>
-                    </svg>
-                    <input class="font-black text-[#AFADB5] w-full text-sm lg:text-lg focus:outline-none" type="text" placeholder="Search property">
-                </div>
-                <button class="bg-[#518581] py-2.5 px-7 md:px-11 ml-8 md:max-w-[810px]">
-                    <span class="font-bold text-sm lg:text-lg text-white">Search</span>
-                </button>
-            </div>
-        </div> -->
-        <!-- Sofa Image -->
-        <!-- <div class="sm:bg-green-200 md:bg-red-200 lg:bg-blue-200 relative flex justify-center mt-8 sm:mt-24 w-full">
-            <img class="max-w-[327px] sm:max-w-[900px] w-full lg:max-w-[1240px] max-h-[160px] sm:max-h-[280px] lg:max-h-[480px]" src="{{ asset('images/landingImages/section2-sofa.png') }}" alt="img">
-        </div> -->
-        <!-- <div class="sm:bg-green-200 md:bg-red-200 lg:bg-blue-200 relative flex justify-center mt-8 md:mt-24 w-full">
-            <img class="max-w-[327px] md:max-w-[900px] lg:max-w-[1240px] max-h-[160px] md:max-h-[280px] lg:max-h-[480px]" src="{{ asset('images/landingImages/section2-sofa.png') }}" alt="img">
-        </div> -->
     </section>
 </div>

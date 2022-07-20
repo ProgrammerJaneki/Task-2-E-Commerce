@@ -20,7 +20,7 @@
         <div class="flex justify-center w-full" >
         <div class="flex flex-col md:flex-row gap-7 mt-8">
             <div class="flex flex-col max-w-[327px] md:max-w-[394px] py-4 md:py-6 px-4 md:px-5 shadow-lg">
-                <img class="w-6 md:w-8 h-6 mdhw-8 " src="{{ asset('images/landingImages/section3-square.png') }}" alt="img">
+                <img class="w-6 md:w-8 h-6 md:h-8 " src="{{ asset('images/landingImages/section3-square.png') }}" alt="img">
                 <span class="font-bold text-base md:text-2xl">Manny Choices</span>
                 <span class="text-sm md:text-lg text-[#AFADB5]">
                     Pellentesque etiam blandit in tincidunt at
@@ -29,7 +29,7 @@
                 </span>
             </div>
             <div class="flex flex-col max-w-[327px] md:max-w-[394px] py-4 md:py-6 px-4 md:px-5 shadow-lg">
-                <img class="w-6 md:w-8 h-6 mdhw-8 " src="{{ asset('images/landingImages/section3-square.png') }}" alt="img">
+                <img class="w-6 md:w-8 h-6 md:h-8 " src="{{ asset('images/landingImages/section3-fast.png') }}" alt="img">
                 <span class="font-bold text-base md:text-2xl">Fast and On Time</span>
                 <span class="text-sm md:text-lg text-[#AFADB5]">
                     Pellentesque etiam blandit in tincidunt at
@@ -38,7 +38,7 @@
                 </span>
             </div>
             <div class="flex flex-col max-w-[327px] md:max-w-[394px] py-4 md:py-6 px-4 md:px-5 shadow-lg">
-                <img class="w-6 md:w-8 h-6 mdhw-8 " src="{{ asset('images/landingImages/section3-square.png') }}" alt="img">
+                <img class="w-6 md:w-8 h-6 md:h-8 " src="{{ asset('images/landingImages/section3-price.png') }}" alt="img">
                 <span class="font-bold text-base md:text-2xl">Affordable Price</span>
                 <span class="text-sm md:text-lg text-[#AFADB5]">
                     Pellentesque etiam blandit in tincidunt at
