@@ -1,7 +1,7 @@
 <div class="bg-white w-full">
     <!-- 1. NAGIVATION BAR -->
     <nav x-data="{ open: false }"
-        class="border-b-2 border-[#F3F3F3] lg:flex justify-between mx-auto text-[#151B33]  max-w-[375px] md:max-w-[1440px] py-[21px] lg:py-11 px-6 md:px-[100px]">
+        class="border-b-2 border-[#F3F3F3] lg:flex justify-between mx-auto text-[#151B33]  max-w-[375px] sm:max-w-[1440px] py-[21px] lg:py-11 px-6 md:px-[100px]">
     <!-- Mobile View -->
         <div class="flex justify-between items-center ">
             <!-- Left Side -->

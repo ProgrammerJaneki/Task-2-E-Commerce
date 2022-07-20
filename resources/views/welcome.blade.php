@@ -18,5 +18,11 @@
             <x-home.landing-page/>
             <!-- Landing Page Section 2 -->
             <x-home.landing-page-section2/>
-    </body>
+            <!-- Landing Page Section 3 -->
+            <x-home.landing-page-section3/>
+            <!-- Landing Page Section 4 -->
+            <x-home.landing-page-section4/>
+            <!-- Landing Page Section 5 -->
+            <x-home.landing-page-section5/>
+        </body>
 </html>
