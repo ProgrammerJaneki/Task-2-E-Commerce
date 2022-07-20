@@ -24,5 +24,9 @@
             <x-home.landing-page-section4/>
             <!-- Landing Page Section 5 -->
             <x-home.landing-page-section5/>
+            <!-- Landing Page Section 6 -->
+            <x-home.landing-page-section6/>
+            <!-- Landing Page Section 7-->
+            <x-home.landing-page-section7/>
         </body>
 </html>

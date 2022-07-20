@@ -20,7 +20,7 @@
                 <img class="max-w-[220px] md:max-w-[394px] max-h-[194px] md:max-h-[360px]" src="{{ asset('images/landingImages/section4-bookshelf.png') }}" alt="img">
                 <div class="flex flex-col mt-3 md:mt-6">
                     <span class="font-bold text-xs md:text-lg text-[#AFADB5] leading-[1.8] md:leading-[1.3]">Chair</span>
-                    <span class="font-bold text-base md:text-2xl text-[#151411]">White Aesthetic Chair</span>
+                    <span class="font-bold text-base md:text-2xl text-[#151411]">Wooden Bookshelf</span>
                     <span class="font-black text-sm text-[#AFADB5] mt-2 leading-[1.8]">Combination of wood and wool</span>
                     <span class="font-bold text-base md:text-2xl leading-[1.3] mt-3 md:mt-4">$63.47</span>
                 </div>

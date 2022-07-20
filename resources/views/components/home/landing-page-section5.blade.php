@@ -1,5 +1,5 @@
 <div class="bg-white w-full grid place-items-center">
-    <section class="px-6 md:px-[100px] max-w-[375px] md:max-w-[1440px] w-full pb-[100px]">
+    <section class="px-6 md:px-[100px] max-w-[375px] md:max-w-[1440px] w-full pb-[100px] md:pb-[180px]">
         <!-- Body -->
         <div class="flex flex-col md:grid grid-cols-2 gap-[2rem] md:gap-[3.15rem] grid-rows-3 ">
         <!-- Upper -->
