@@ -1,5 +1,5 @@
 <div class="bg-white w-full grid place-items-center">
-    <section class="px-6 md:px-[100px]  bg-white">
+    <section class="px-6 md:px-[100px]  bg-white pb-[86px]">
         <!-- Container -->
         <div class="md:flex flex-col lg:flex-row gap-12 grid-cols-2">
             <!-- Col 1 -->
@@ -90,6 +90,16 @@
                     </div>
                 </div>
             </div>
+        </div>
+
+        <!-- Last Part -->
+        <div class="flex flex-col lg:flex-row justify-between lg:items-center mt-[100px] w-full xl:mt-[181px]">
+            <span class="font-bold text-2xl lg:text-[36px] xl:text-[44px] text-[#151411] max-w-[305px] lg:max-w-none">Join with me to get special discount</span>
+            <button class="flex items-center bg-[#518581] py-[15px] px-[35px] max-w-[180px] md:max-w-[201px] mt-4 lg:mt-0">
+                <span class="font-bold text-sm text-white whitespace-nowrap">Learn More</span>
+                <svg class="text-white w-[25px] h-[25px] ml-[10px]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m22 6l8 10l-8 10m8-10H2"/>
+                </svg>
+            </button>
         </div>
     </section>
 </div>
