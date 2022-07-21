@@ -15,10 +15,8 @@
     <body class="">
         <!-- Header -->
         <x-home.landing-page/>
-        <!-- Section 2 -->
-        <x-products.section2/>
-        <!-- Section 3 -->
-        <x-products.section3/>
+        <!-- Section 1 -->
+        <x-product-detail.product-detail1/>
         <!-- Footer -->
         <x-home.landing-page-footer/>
         </body>

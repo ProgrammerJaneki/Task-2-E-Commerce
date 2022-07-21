@@ -19,3 +19,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'welcome')->name('home');
 Route::view('/products', 'components/products/section1')->name('products');
+Route::view('/product-detail', 'components/product-detail/landing-page')->name('product-detail');
+Route::view('/services', 'components/services/services-landing-page')->name('services-landing-page');

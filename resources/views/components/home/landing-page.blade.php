@@ -35,7 +35,7 @@
         <div :class="{'flex': open, 'hidden': !open}" class="hidden lg:flex items-center">
                 <ul class="lg:flex items-center font-black text-lg gap-14">
                     <li><a class="lg:py-11 lg:border-b-4 text-[#518581] lg:border-[#518581]" href="{{route('products')}}">Product</a></li>
-                    <li><a href="">Services</a></li>
+                    <li><a href="{{ route('services-landing-page') }}">Services</a></li>
                     <li><a href="">Article</a></li>
                     <li><a href="">About Us </a></li>
                 </ul>

@@ -1,5 +1,5 @@
 <div class="bg-white w-full ">
-    <section class=" ">
+    <section class=" pb-[30px] md:pb-[30px] ">
         <!-- Header -->
         <div class="flex justify-center px-6 md:px-[100px]">
             <div class="flex flex-col items-center mt-[50px] md:mt-[100px]">
@@ -34,7 +34,8 @@
                     </svg>
                 </div>
             </div>
-            <div class="bg-transparent hidden md:flex  absolute left-0 md:mt-[15rem] lg:mt-[21rem] xl:mt-[25rem] 2xl:mt-[25rem]  w-full justify-center items-center h-10 place-content-center gap-2">
+            <!-- Index Indicator -->
+            <div class="bg-transparent z-50 flex  absolute left-0 mt-[7rem] sm:mt-[8rem] md:mt-[15rem] lg:mt-[21rem] xl:mt-[25rem] 2xl:mt-[25rem]  w-full justify-center items-center h-10 place-content-center gap-2">
                 <div class="w-2 h-2 rounded-full bg-black"></div>
                 <div class="w-2 h-2 rounded-full bg-white"></div>
                 <div class="w-2 h-2 rounded-full bg-black"></div>

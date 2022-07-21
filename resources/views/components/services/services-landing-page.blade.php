@@ -15,11 +15,8 @@
     <body class="">
         <!-- Header -->
         <x-home.landing-page/>
-        <!-- Section 2 -->
-        <x-products.section2/>
-        <!-- Section 3 -->
-        <x-products.section3/>
+        <!-- Section 1 -->
+        Hi
         <!-- Footer -->
-        <x-home.landing-page-footer/>
         </body>
 </html>
