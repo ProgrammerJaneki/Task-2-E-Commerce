@@ -16,7 +16,10 @@
         <!-- Header -->
         <x-home.landing-page/>
         <!-- Section 1 -->
-        Hi
+        <x-services.services-section1/>
+        <!-- Section 2 -->
+        <x-services.services-section2/>
         <!-- Footer -->
+        <x-home.landing-page-footer/>
         </body>
 </html>
