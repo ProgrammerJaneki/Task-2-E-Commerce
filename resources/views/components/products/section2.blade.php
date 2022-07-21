@@ -11,7 +11,7 @@
             </div>
         </div>
         <!-- Image Slider -->
-        <div class=" mt-[1.9rem] md:mt-[3.15rem] w-full grid place-items-center">
+        <div class="mt-[1.9rem] md:mt-[3.15rem] w-full grid place-items-center">
             <img class="relative w-full md:max-w-[1440px] max-h-[180px] md:max-h-[500px]" src="{{ asset('images/products/offer.png') }}" alt="img">
             <!-- Info with Control -->
             <div class="absolute w-full z-50 2xl:grid 2xl:place-items-center ">
@@ -27,10 +27,18 @@
                                 on Lalasia
                             </span>
                         </div>
+                        <!-- <div class="bg-green-200 w-full mt-[20rem]">
+                            Hey</div> -->
                     </div>
                     <svg class="hidden md:flex rounded-full bg-[#151411]/60 py-[8px] px-[8px] w-[1.9rem] h-[1.9rem]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="m6 15l5-5l-5-5l1-2l7 7l-7 7z"/>
                     </svg>
                 </div>
+            </div>
+            <div class="bg-transparent hidden md:flex  absolute left-0 md:mt-[15rem] lg:mt-[21rem] xl:mt-[25rem] 2xl:mt-[25rem]  w-full justify-center items-center h-10 place-content-center gap-2">
+                <div class="w-2 h-2 rounded-full bg-black"></div>
+                <div class="w-2 h-2 rounded-full bg-white"></div>
+                <div class="w-2 h-2 rounded-full bg-black"></div>
+                <div class="w-2 h-2 rounded-full bg-black"></div>
             </div>
         </div>
     </section>
