@@ -8,11 +8,15 @@
             <div class="flex gap-2 items-center">
                 <!-- Logo -->
                 <div class="flex flex-col">
+                    <a href="{{route('home')}}">
                     <img src="{{ asset('images/landingImages/logo1-1.png') }}" alt="img">
                     <img src="{{ asset('images/landingImages/logo1-2.png') }}" alt="img">
                     <img src="{{ asset('images/landingImages/logol-3.png') }}" alt="img">
+                    </a>
                 </div>
-                <img class="pl-2.5 w-[57px] h-[14px]" src="{{ asset('images/landingImages/logo-name.png') }}" alt="img">
+                <a href="{{route('home')}}">
+                    <img class="pl-2.5 w-[57px] h-[14px]" src="{{ asset('images/landingImages/logo-name.png') }}" alt="img">
+                </a>
             </div>
             <!-- Mobile Menu Button -->
             <div class="flex lg:hidden">
@@ -30,7 +34,7 @@
         <!-- Middle -->
         <div :class="{'flex': open, 'hidden': !open}" class="hidden lg:flex items-center">
                 <ul class="lg:flex items-center font-black text-lg gap-14">
-                    <li><a href="">Product</a></li>
+                    <li><a class="lg:py-11 lg:border-b-4 text-[#518581] lg:border-[#518581]" href="{{route('products')}}">Product</a></li>
                     <li><a href="">Services</a></li>
                     <li><a href="">Article</a></li>
                     <li><a href="">About Us </a></li>

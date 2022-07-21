@@ -3,7 +3,7 @@
         <!-- Container -->
         <div class="flex gap-0 lg:gap-[110px] xl:gap-[248px] border-t-2 w-full border-[#ECE4DE] flex-col lg:flex-row">
             <!-- Left Side -->
-            <div class="w-full flex flex-col lg:pt-[98px] pb-[30px] lg:pb-[150px]">
+            <div class="w-full flex flex-col pt-[30px] lg:pt-[98px] pb-[30px] lg:pb-[150px]">
                 <div class="flex items-center">
                     <div class="flex flex-col max-w-[22px]">
                         <img src="{{ asset('images/landingImages/logo1-1.png') }}" alt="img">
