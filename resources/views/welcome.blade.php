@@ -30,5 +30,6 @@
             <x-home.landing-page-section7/>
             <!-- Landing Page Footer -->
             <x-home.landing-page-footer/>
+        @stack('script')
         </body>
 </html>
