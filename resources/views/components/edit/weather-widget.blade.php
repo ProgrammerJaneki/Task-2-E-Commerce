@@ -26,8 +26,11 @@
             </div>
             {{-- Image at the middle --}}
             <div class="flex w-full justify-center ">
-                <img class="transform my-6 w-32 duration-200 hover:scale-105"
-                    src="https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_19-512.png" alt="">
+                <a href="{{ route('js-sliders') }}">
+                    <img class="transform my-6 w-32 duration-200 hover:scale-105"
+                        src="https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_19-512.png"
+                        alt="">
+                </a>
             </div>
             {{-- Text in Center --}}
             <div class="flex flex-col w-full items-center">

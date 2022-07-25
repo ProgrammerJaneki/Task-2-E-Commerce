@@ -49,7 +49,7 @@
         <!-- Riight  -->
         <div :class="{'flex': open, 'hidden': !open }" class="hidden lg:flex items-center ">
             <div class="flex flex-col gap-0 lg:gap-6 lg:flex-row">
-                <a class="{{ Request::is('detail') ? 'text-[#518581]' : 'hover:text-[#518581]' }}"
+                <a class="{{ Request::is('edit') ? 'text-[#518581]' : 'hover:text-[#518581]' }}"
                     href="{{ route('edit-section1') }}">
                     <svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                         aria-hidden="true" role="img" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512">

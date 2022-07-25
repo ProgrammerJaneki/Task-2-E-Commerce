@@ -25,3 +25,4 @@ Route::view('/article', 'components/article/article-landing-page')->name('articl
 Route::view('/about', 'components/about/landing-page-about')->name('about-landing-page');
 Route::view('/detail', 'components/detail/landing-page-detail')->name('detail-landing-page');
 Route::view('/edit', 'components/edit/edit-section1')->name('edit-section1');
+Route::view('/javascript', 'components/js/js-sliders')->name('js-sliders');
