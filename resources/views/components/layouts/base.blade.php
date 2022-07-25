@@ -5,22 +5,26 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>E-Commerce</title>
-    <!-- Fonts -->
+    {{-- Fonts --}}
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap" rel="stylesheet">
-    <!-- Tailwindcss -->
+    {{-- TailwindCSS --}}
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-    <!-- Alpine -->
+    {{-- AnimateCSS --}}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    {{-- Alphine --}}
     <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 </head>
 
 <body class="">
-    <!-- Navigation Bar -->
-    {{--
-    <x-home.landing-page /> --}}
+    {{-- Navigation Bar --}}
+
+
+
+    <x-home.landing-page />
 
     @yield('content')
-    <!-- Footer -->
+    {{-- Footer --}}
     <x-home.landing-page-footer />
 </body>
 
